@@ -51,16 +51,16 @@
 ## 2. 서비스 기능
 
 ### 1. 메인 기능
-
+![GIFMaker_me](https://github.com/user-attachments/assets/9144ae23-517c-4eab-9244-f89c41d589ae)
 - 사용자 설문 기반 맞춤 영양제 조합 추천 서비스
 - 정기 소분 배송 서비스
 
 ### 2. 서브 기능
-
+![GIFMaker_me](https://github.com/user-attachments/assets/014e0512-7077-40cb-a646-6874f8f85c38)
 - AI챗봇 고민상담
 
 ### 3. 부가 기능
-
+<img width="100" alt="약국" src="https://github.com/user-attachments/assets/19125612-e5c5-4248-8b00-d73208ea54e5">
 실시간 주변 약국 위치 서비스
 
 ## 3. 프로젝트 설계
