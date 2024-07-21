@@ -61,7 +61,8 @@
 
 ### 3. 부가 기능
 <img width="100" alt="약국" src="https://github.com/user-attachments/assets/19125612-e5c5-4248-8b00-d73208ea54e5">
-실시간 주변 약국 위치 서비스
+
+- 실시간 주변 약국 위치 서비스
 
 ## 3. 프로젝트 설계
 
