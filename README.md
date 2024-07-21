@@ -42,10 +42,11 @@
 - 영양제의 전반적인 정보 제공받을 수 있는 신뢰도 높은 경로에 대한 수요
 
 ### 목적 및 필요성
+<img width="500" alt="비" src="https://github.com/user-attachments/assets/fffefc20-77b7-40d8-8bfc-135177cd626f">
 
 - 기존 서비스들에 대한 단점 보완
-
-### 기대 효과와 활용방안
+- 기존 판매가 대비 42 ~ 62%의 금액으로 제공
+- 많은 리뷰로 신뢰성이 검증된 영양제
 
 ## 2. 서비스 기능
 
@@ -64,19 +65,13 @@
 
 ## 3. 프로젝트 설계
 
-### 파일 구조도
-
 ### 아키텍쳐
+<img width="700" alt="이지필 아키텍처" src="https://github.com/user-attachments/assets/496115ef-d751-4d81-b963-7c77c860211b">
 
 
-### ERD 다이어그램
+### 유저 플로우
+<img width="700" alt="유저플로우" src="https://github.com/user-attachments/assets/918fd6df-1ca8-442f-b946-cbd7275443e1">
 
-### Flow Chart
 
-### Front
-
-### Back
-
-### DB
-
-## 4. 시연 영상
+## 4. 전체 시연 영상
+![GIFMaker_me](https://github.com/user-attachments/assets/8c873911-b979-4eaf-9acc-0f38ebdd0b96)
